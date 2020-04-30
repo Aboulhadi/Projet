@@ -1,4 +1,9 @@
+build
+
+.DS_store
+
 # Prerequisites
+
 *.d
 
 # Object files
